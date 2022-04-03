@@ -1,0 +1,7 @@
+{
+  "name": "martin_crud_api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

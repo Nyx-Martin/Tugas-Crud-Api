@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "martin_crud_api",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
